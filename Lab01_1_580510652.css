@@ -1,0 +1,41 @@
+.body {
+	background-color:  	#FFF0F5;
+}
+
+*{
+	font-family: 'Itim', cursive;
+}
+
+.header{
+	background-color: lightpink; 
+	color: #7B68EE;
+	border:  #2c3e50;
+	padding: 10px;
+	text-align: center;
+	box-shadow: 10px 10px 5px grey;
+}
+
+.day{
+	width:   13%;
+	font-size: 150%;
+	text-align: center;
+	display: inline-block;
+
+
+}
+
+.day_num{
+	color: blue;
+	width: 13%;
+	font-size: 150%;
+	text-align: center;
+	display: inline-block;
+}
+
+.holiday{
+	color: red;
+	width: 13%;
+	font-size: 150%;
+	text-align: center;
+	display: inline-block;
+}
